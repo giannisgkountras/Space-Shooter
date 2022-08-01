@@ -13,9 +13,15 @@ In order to play the game:
 
 
 
-# Game instructions:
+### Game instructions:
 
 The yellow spaceship moves using WASD and shoots usind left CTRL key
 
 The red spaceship moves using the arrow keys and shoots using the right CTRL key.
 
+Game preview:
+
+![spaceShooterScreenshot](https://user-images.githubusercontent.com/110430201/182260103-30d23b18-35a0-46f1-a146-2836c011315a.jpg)
+
+
+*Note: The game is still under developement and errors may occure*
