@@ -20,7 +20,7 @@ GAME_OVER_SOUND = pygame.mixer.Sound(os.path.join('Assets', 'game_over.mp3'))
 
 
 
-HEALTH_FONT = pygame.font.Font(os.path.join('Assets', 'font.TTF'),20)
+HEALTH_FONT = pygame.font.Font(os.path.join('Assets', 'font.ttf'),20)
 WINNER_FONT = pygame.font.Font(os.path.join('Assets', 'winner_font.TTF'),50)
 START_FONT = pygame.font.Font(os.path.join('Assets', 'winner_font.TTF'),100)
 
